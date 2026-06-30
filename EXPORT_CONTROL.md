@@ -1,7 +1,7 @@
 # Export Control & Compliance Statement
 
 ## 1. Product Classification & Legal Counsel
-* **Item Name:** Canalila-Bees-Wax-As-Substitute-For-Plasma-During-Apheresis
+* **Item Name:** Canalila Bees Wax As Substitute For Plasma During Apheresis
 * **Jurisdiction:** U.S. Department of Commerce (Bureau of Industry and Security - BIS)
 * **Classification Status:** EAR99 (Medical Device Software / SaMD)
 * **Retained Counsel:** Fox Rothschild LLP (Medical Technology & International Trade Groups)
